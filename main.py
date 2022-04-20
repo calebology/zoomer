@@ -8,6 +8,7 @@ from password import passwd
 import sys
 import os
 
+# asdf
 
 #### Navigating to the home page #####
 def home_page():
